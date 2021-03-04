@@ -22,7 +22,7 @@
       12- What was her first full-time job?
       13- How did she end up where they are today?
       14- Has her career track been traditional or did she switch from another industry?
-      15- What are her technical habilities?
+      15- What are her technical abilities?
       16- What motivates you professionally?
       17- What software & tools do you use while working?
       18- How many hours do you work in a typical day?
