@@ -11,8 +11,6 @@
    - [ ] Given a menu in the right corner top of the page.
    - [ ] Given a menu in the middle top of the page.
 
-3. As a **visitor** I want to see a motto
-
 ## Should-Haves
 
 1. As a **visitor** I want to see a motto
