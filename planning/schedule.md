@@ -4,7 +4,7 @@
 
 ## 1-week
 
-| day       | time          | how          | topic                                                             |
+|     day   |      time     |     how      |                          topic                                    |
 | :-------- | :------------ | :----------- | :---------------------------------------------------------------- |
 | monday    | 17:00 - 20:00 | alone        | interview planning to help Sheyla's website design                |
 | tuesday   | 17:00 - 20:00 | zoom         | first interview - introduction                                    |
@@ -15,7 +15,7 @@
 
 ## 2-week
 
-| day       | time          | how | topic |
+|     day   |      time     | how |  topic |
 | :-------- | :------------ | :-- | :----- |
 | monday    | 17:00 - 20:00 |     |        |
 | tuesday   | 17:00 - 20:00 |     |        |
