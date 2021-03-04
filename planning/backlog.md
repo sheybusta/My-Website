@@ -16,7 +16,7 @@
 
 4. As an **owner** I want to have a big photo at the top of the page.
 
-  - [ ] Given a photo in the center of the page.
+   - [ ] Given a photo in the center of the page.
 
 5. As an **owner** I want to have a couple of personal quotes in the page.
 
