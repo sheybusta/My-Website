@@ -16,13 +16,13 @@
 
 4. As an **owner** I want to have a big photo at the top of the page.
 
-  - [ ] Given a photo in the center of the page.
+   - [ ] Given a photo in the center of the page.
 
 5. As an **owner** I want to have a couple of personal quotes in the page.
 
    - [ ] Given two quotes in the page.
 
-6. As an **user** I want a menu to navigate through website easily.
+6. As an **user** I want a menu to navigate through the website easily.
 
    - [ ] Given a menu in the right corner top of the page.
    - [ ] Given a menu in the center of the footer.
@@ -35,7 +35,7 @@
 8. As an **owner** I want to see many photos in the page.
    - [ ] Given some personal and professional photos on the page.
 
-9. 8. As an **owner** I want to see my goals in the page
+9. As an **owner** I want to put my goals in the page
    - [ ] Given a goals section.
 
 ## Should-Haves
@@ -44,6 +44,6 @@
 
 ## Could-Haves
 
-1. As an **user** I would like to see the website in other languages.
+1. As an **user** I would like to see in the future the website in other languages.
    - [ ] Given a spanish and french version.
 
