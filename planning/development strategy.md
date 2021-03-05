@@ -57,6 +57,15 @@
 
 **CSS**
 
+## Programming Languages skills
+
+**HTML**
+-Icons
+
+**CSS**
+
+- "Icons" class
+
 ## Social media section
 
 **HTML**
